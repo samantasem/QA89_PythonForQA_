@@ -6,8 +6,11 @@ Selenium WebDriver
 Git / GitHub
 PyCharm
 Google Chrome
-QA_Python_Automation/ 
-├── tests/ │ 
-├── test_login.py │ └── test_homepage.py ├── requirements.txt 
-├── .gitignore 
+
+QA_Python_Automation/
+├── tests/
+│   ├── test_login.py
+│   └── test_homepage.py
+├── requirements.txt
+├── .gitignore
 └── README.md
