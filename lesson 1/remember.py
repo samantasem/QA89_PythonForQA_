@@ -1,5 +1,5 @@
 st = 'Python'
-
+#
 print(st[0:3])
 print(st[2:5])
 print(st[4:6])
